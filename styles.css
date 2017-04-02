@@ -1,3 +1,4 @@
 #configs { width:300px; margin:auto; padding:20px; background: #ccc; }
 #configs label { clear:both; display: block; }
+#backdrop{background:white;position:fixed;top:0;left:0;}
 .target { position: absolute; background: red; }
